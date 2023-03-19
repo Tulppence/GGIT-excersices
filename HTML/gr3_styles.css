@@ -1,0 +1,54 @@
+/*
+ciemnoniebieski: #1d3557
+jasnoniebieski: #457b9d
+font: #f1faee
+*/
+
+body {
+    margin: 0;
+    background-color: #457b9d;
+    color: #f1faee;
+}
+
+.dark-background {
+    background-color: #1d3557;
+}
+
+.main-navbar {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+.main-content {
+    width: 400px;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 31px 29px 38px -18px rgba(0, 0, 0, 1);
+
+}
+
+.shelter-img {
+    border-radius: 45px;
+}
+
+.main-footer {
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+}
+
+.title {
+    display: inline;
+}
+
+a {
+    color: lightblue;
+}
+
+a:visited {
+    color: lightpink;
+}
